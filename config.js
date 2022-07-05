@@ -1,0 +1,9 @@
+module.exports = {
+  cookie: '_ga=GA1.2.135633770.1636102065; MONITOR_WEB_ID=e5b5d254-c951-4304-8bdc-b83fc25b904d; __tea_cookie_tokens_2608=%257B%2522user_unique_id%2522%253A%25227028534803050579490%2522%252C%2522web_id%2522%253A%25227028534803050579490%2522%252C%2522timestamp%2522%253A1642128504228%257D; _gid=GA1.2.1164220453.1652006346; _tea_utm_cache_2608={%22utm_source%22:%22gold_browser_extension%22}; passport_csrf_token=6da113bc13f17a31c526f9ab2db1b855; passport_csrf_token_default=6da113bc13f17a31c526f9ab2db1b855; _tea_utm_cache_2018={%22utm_source%22:%22gold_browser_extension%22}; n_mh=cfLBiOnbg2BiSndspKeGyE9J7-iIqwHJwQSIc7In-6k; sid_guard=dc56746f3bd712a26055c97579beef42%7C1652165117%7C31536000%7CWed%2C+10-May-2023+06%3A45%3A17+GMT; uid_tt=3b2aabad8fdf66b80a97b9a99699d153; uid_tt_ss=3b2aabad8fdf66b80a97b9a99699d153; sid_tt=dc56746f3bd712a26055c97579beef42; sessionid=dc56746f3bd712a26055c97579beef42; sessionid_ss=dc56746f3bd712a26055c97579beef42; sid_ucp_v1=1.0.0-KDFmOTg1NmQ0NWVmMjYyOTk0YjMxMTgzMTQ1OWJjZTA5OTBjNzc5MWQKFwiY_eC-_fWxARD9k-iTBhiwFDgCQO8HGgJsZiIgZGM1Njc0NmYzYmQ3MTJhMjYwNTVjOTc1NzliZWVmNDI; ssid_ucp_v1=1.0.0-KDFmOTg1NmQ0NWVmMjYyOTk0YjMxMTgzMTQ1OWJjZTA5OTBjNzc5MWQKFwiY_eC-_fWxARD9k-iTBhiwFDgCQO8HGgJsZiIgZGM1Njc0NmYzYmQ3MTJhMjYwNTVjOTc1NzliZWVmNDI',
+  PUSH_PLUS_TOKEN: '5ebad1bf136e49f89b26c160b7551df3',
+  aid: '2608',
+  uuid: '7028534803050579490',
+  _signature: '_02B4Z6wo00901ZwyMJwAAIDBHDDK3x8aXoWcNjQAAAV4jV0GV8OZ0NaITigH23Whb3iO66a-pAKO0P.4LhhHHpxXffeOxtd4CF2zZQ8aB5FY39-nGU2o71D8BhefJDAYTbLLPfqsp-oCI5lNb9',
+  DING_TALK_TOKEN: '', // 钉钉webhook参考（很简单）：https://open.dingtalk.com/document/group/custom-robot-access
+  uid: '782508007898776', // *自动玩游戏需要此参数，在掘金首页打开控制台输入这行代码`window.__NUXT__.state.auth.user.id`就可以得到
+}
